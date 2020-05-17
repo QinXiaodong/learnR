@@ -30,4 +30,5 @@ double sqr(double x){
   return(x*x);
 }
 ~~~
-![](./bd.logo.png)
+
+![](./bd_logo.png)
