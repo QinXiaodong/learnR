@@ -1,6 +1,6 @@
 ---
 title: "R语言简介"
-author: "李东风"
+author: "李东风-秦晓东"
 date: "2020-05-12"
 documentclass: ctexart
 output: rticles::ctex
