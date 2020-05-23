@@ -1,5 +1,4 @@
-res <- d.class %>%
-    head(n=3) %>%
-    select(name) %>%
-    paste(collapse = ":")
+res<-d.stu %>%
+  anti_join(d.cl, by="cid") %>%
+  knitr::kable()
 print(res)
